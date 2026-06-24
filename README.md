@@ -67,10 +67,11 @@ The dataset originates from actual retail operations but has been:
 ## 📈 Key Metrics & Insights
 
 ### Executive KPIs
+- ### Executive KPIs
 - **Total Revenue:** ₦29.42bn (3-year period)
-- **Gross Margin:** 27.23%
-- **OTIF Performance:** 21% (highlighting supply chain opportunity)
-- **Revenue Variance:** -₦30.86bn vs budget (significant miss to investigate)
+- **Gross Profit:** ₦8.01bn
+- **Gross Margin:** 27.23% (profitability efficiency)
+- **EBITDA %:** 22.4% (operational earnings as % of revenue)
 
 ### Operational Insights
 - **Inventory Turnover:** 1.07x annually (slow-moving stock)
