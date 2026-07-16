@@ -41,7 +41,7 @@ DB_CONFIG = {
     'host':       'localhost',
     'port':       3306,
     'user':       'root',           # your MySQL username
-    'password':   'Kevwe000115!',  # your MySQL password
+    'password':   '**********',  # your MySQL password
     'database':   'primechoice',
     'charset':    'utf8mb4',
     'autocommit': False,
