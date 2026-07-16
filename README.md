@@ -98,19 +98,19 @@ The dataset originates from actual retail operations but has been:
 ## 🎨 Dashboard Screenshots
 
 ### Page 1: Executive Scorecard
-![Executive Scorecard](./dashboard/screenshots/01_Executive_Scorecard.png)
+![Executive Scorecard](./dashboard/screenshots/01exec.png)
 
 ### Page 2: Sales & Product Performance
-![Sales Products](./dashboard/screenshots/02_Sales_Products.png)
+![Sales Products](./dashboard/screenshots/02sales&products.png)
 
 ### Page 3: Store Operations & Inventory
-![Store Ops](./dashboard/screenshots/03_Store_Operations.png)
+![Store Ops](./dashboard/screenshots/03stores&inventory.png)
 
 ### Page 4: Supply Chain & Logistics
-![Supply Chain](./dashboard/screenshots/04_Supply_Chain.png)
+![Supply Chain](./dashboard/screenshots/04supply.png)
 
 ### Page 5: Finance & P&L Bridge
-![Finance](./dashboard/screenshots/05_Finance_PL.png)
+![Finance](./dashboard/screenshots/05finance.png)
 
 ---
 
