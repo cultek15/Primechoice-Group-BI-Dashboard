@@ -36,7 +36,7 @@ A comprehensive 5-page Power BI dashboard for a Nigerian omnichannel retailer. T
 
 **Source:** Real Nigerian retail transaction data, adapted and anonymized using AI  
 **Period:** January 2022 - December 2024  
-**Volume:** ~3.5M transaction records + supporting dimensions
+**Volume:** 3.5M transaction records + supporting dimensions
 
 ### Data Adaptation Process
 
@@ -118,7 +118,7 @@ The dataset originates from actual retail operations but has been:
 
 ### View the Dashboard
 
-1. Download `PrimeChoice_Dashboard.pbix` from `/dashboard` folder
+1. Download `PCL.BI.Dash.pbix` from `## (https://github.com/cultek15/Primechoice-Group-BI-Dashboard/releases/download/v1.0.0/PCL.BI.Dash.pbix)
 2. Open in **Power BI Desktop**
 3. Connect to your MySQL database (or use sample data if provided)
 4. Interact with all slicers and charts
@@ -188,7 +188,7 @@ The dataset originates from actual retail operations but has been:
 - **Fact Records:** ~3.5M transactions
 - **RLS Roles:** 6
 - **Data Period:** 3 years (2022-2024)
-- **Build Time:** ~75+ hours
+- **Build Time:** 170+ hours
 
 ---
 
