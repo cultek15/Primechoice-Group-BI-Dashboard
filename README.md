@@ -98,19 +98,19 @@ The dataset originates from actual retail operations but has been:
 ## 🎨 Dashboard Screenshots
 
 ### Page 1: Executive Scorecard
-![Executive Scorecard](./dashboard/screenshots/01exec.png)
+![Executive Scorecard](./Dashboard/Screenshots/01exec.png)
 
 ### Page 2: Sales & Product Performance
-![Sales Products](./dashboard/screenshots/02sales&products.png)
+![Sales Products](./Dashboard/Screenshots/02sales&product.png)
 
 ### Page 3: Store Operations & Inventory
-![Store Ops](./dashboard/screenshots/03stores&inventory.png)
+![Store Ops](./Dashboard/Screenshots/03stores&inventory.png)
 
 ### Page 4: Supply Chain & Logistics
-![Supply Chain](./dashboard/screenshots/04supply.png)
+![Supply Chain](./Dashboard/Screenshots/04supply.png)
 
 ### Page 5: Finance & P&L Bridge
-![Finance](./dashboard/screenshots/05finance.png)
+![Finance](Dashboard/Screenshots/05finance.png)
 
 ---
 
@@ -118,7 +118,7 @@ The dataset originates from actual retail operations but has been:
 
 ### View the Dashboard
 
-1. Download `PCL.BI.Dash.pbix` from `## (https://github.com/cultek15/Primechoice-Group-BI-Dashboard/releases/download/v1.0.0/PCL.BI.Dash.pbix)
+1. Download `PCL.BI.Dash.pbix` from [PCL BI Dashboard](https://github.com/cultek15/Primechoice-Group-BI-Dashboard/releases/download/v1.0.0/PCL.BI.Dash.pbix)
 2. Open in **Power BI Desktop**
 3. Connect to your MySQL database (or use sample data if provided)
 4. Interact with all slicers and charts
